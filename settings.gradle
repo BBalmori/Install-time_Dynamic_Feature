@@ -1,0 +1,3 @@
+include ':dynamicfeature_installtime'
+include ':app'
+rootProject.name = "InstallTimeSample"

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InstallTimeSample</string>
+    <string name="title_dynamicfeature_installtime">Install-time Dynamic Feature</string>
+    <string name="button_open_dynamic_feature">Open Dynamic Feature</string>
+</resources>
